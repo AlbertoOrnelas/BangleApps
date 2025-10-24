@@ -2,7 +2,7 @@
   "id": "worktimer",
   "name": "Work Timer",
   "shortName": "Work Timer",
-  "icon": "worktimer.png",
+  "icon": "app.png",
   "version":"0.01",
   "author":"Alberto_Ornelas",
   "description": "Shows arrival, break, and leave times",
