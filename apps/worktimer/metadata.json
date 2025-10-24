@@ -11,5 +11,6 @@
   "storage": [
     {"name":"worktimer.js", "url": "app.js"},
     {"name":"worktimer.img", "url": "app-icon.js", "evaluate":true}
-  ]
+  ],
+  "data": [{"name":"worktimer.json"}]
 }
